@@ -30,4 +30,3 @@
 <br />
 
 [linkedin]: https://linkedin.com/in/akshay-thakur-5b9b0297
-
