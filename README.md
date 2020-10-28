@@ -1,6 +1,6 @@
 ### Hello, I'm Akshay Thakur - aka AK 👋
 
-## I'm a Husband, Developer and Techie of Oracle Cloud Products as Oracle OTM, Oracle OIC, Oracle SOA, JCS, DBCS!!!
+## I'm a Husband, Developer and Technical Consultant of Oracle Cloud Products as Oracle OTM, Oracle OIC, Oracle SOA, JCS, DBCS!!!
 
 - 🌱 I’m currently learning everything and gianing full insights on Python...
 - 👯 I’m also looking to collaborate with other memebers for any project...
