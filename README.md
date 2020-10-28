@@ -29,4 +29,5 @@
 <br />
 <br />
 
-[linkedin]: linkedin.com/in/akshay-thakur-5b9b0297
+[linkedin]: https://linkedin.com/in/akshay-thakur-5b9b0297
+
